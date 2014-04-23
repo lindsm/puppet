@@ -1,4 +1,6 @@
-## Not sure of environment, so keeping the webpage self contained in a variable.  Would prefer to do this with a module/template
+# Tested against CENTOS
+
+# Not sure of environment, so keeping the webpage self contained in a variable.  Would prefer to do this with a module/template
 $my_quote = 
 "
   <HEAD>
